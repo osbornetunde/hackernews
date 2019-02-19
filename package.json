@@ -2,7 +2,7 @@
   "name": "hackernews",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://osbornetunde.github.io/react-clones/hackernews",
+  "homepage": "http://osbornetunde.github.io/hackernews",
   "dependencies": {
     "moment": "^2.23.0",
     "react": "^16.7.0",
